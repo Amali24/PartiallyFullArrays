@@ -76,11 +76,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="PartiallyFullArraysHeader.h" />
+    <ClInclude Include="PartiallyFullArraysPt1Header.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PartiallyFullArrayslib.cpp" />
-    <ClCompile Include="PartiallyFullArraysMain.cpp" />
+    <ClCompile Include="PartiallyFullArrayslibPt1.cpp" />
+    <ClCompile Include="PartiallyFullArraysMainPt1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

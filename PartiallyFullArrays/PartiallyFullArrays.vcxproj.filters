@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PartiallyFullArraysHeader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="PartiallyFullArrayslibPt1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PartiallyFullArraysMainPt1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PartiallyFullArraysMain.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PartiallyFullArrayslib.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <ClInclude Include="PartiallyFullArraysPt1Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
